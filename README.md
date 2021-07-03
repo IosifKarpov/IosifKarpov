@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Edgard Reykh
+- 👀 I’m interested in Front End development
+- 🌱 I’m currently learning another programming industry, Kotlin for Android dev
+- 💞️ I’m looking to collaborate on Front End development or Kotlin for Android dev
+- 📫 If u want to reach me, u can write me in telegram edgardreykh
